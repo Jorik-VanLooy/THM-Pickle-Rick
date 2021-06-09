@@ -7,6 +7,7 @@ This is a write up of the pickle rick box on Try Hack Me. I had fun exploiting t
 
 ## PickleRick
 My first real box to attack is the pickle rick box. First thing to do is to run an nmap scan on the box.
+
 ![nmap scan](/pickle-rick/nmap-scan-Pickle-rick.png)
 
 The result as we can see is that it is an ubuntu box running a webserver on port 80. Let's see what this is all about.
@@ -17,7 +18,7 @@ Apparently rick has turned himself into a pickle and he has a reverse formula. H
 
 first things first, we are still in recconaissance mode. Let's see if the webpage has hidden directory's or files. I'm going to be using gobuster for this.
 
-![gobuster1](/pickle-rick/gobuster.png)
+![gobuster1](/pickle-rick/gobuster-Pickle-Rick.png)
 
 We have a hit on a robots.txt file. This file basicaly is a hidden files that tells search engines to not show certain files/directory's in the results of search engines.
 
