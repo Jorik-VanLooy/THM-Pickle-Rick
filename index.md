@@ -10,7 +10,7 @@ Hi! I'm a student from belgium and I am working on my pen testing. With this blo
 ## PickleRick
 ### recconaissance
 My first real box to attack is the pickle rick box. First thing to do is to run an nmap scan on the box.
-![nmap scan](https://github.com/Jorik-VanLooy/THM-blog/pickle-rick/nmap-scan-pickle-rick.png)
+![nmap scan](https://github.com/Jorik-VanLooy/THM-blog/blob/THM_writeups/pickle-rick/nmap-scan-Pickle-rick.png)
 
 The result as we can see is that it is an ubuntu box running a webserver on port 80. Let's see what this is all about.
 
