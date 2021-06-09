@@ -1,11 +1,8 @@
 ---
-title: "These are my writeups"
+title: "Pickle Rick write up"
 ---
 # What is this
-
-Hi! I'm a student from belgium and I am working on my pen testing. With this blog I wanted to share my road and experience in becoming a good pentester. Right now I am trying to solve as much boxes on TryHackMe.com. 
-
-* ![Pickle Rick Writeup](https://jorik-vanlooy.github.io/THM-blog/#PickleRick)
+This is a write up of the pickle rick box on Try Hack Me. I had fun exploiting this box, This box covers basic web pentesting.
 
 
 ## PickleRick
