@@ -7,7 +7,7 @@ Hi! I'm a student from belgium and I am working on my pen testing. With this blo
 
 * PickleRick
 
-## PickleRick
+## ![Pickle Rick Writeup](https://jorik-vanlooy.github.io/THM-blog/#PickleRick)
 ### recconaissance
 My first real box to attack is the pickle rick box. First thing to do is to run an nmap scan on the box.
 ![nmap scan](https://github.com/Jorik-VanLooy/THM-blog/blob/THM_writeups/pickle-rick/nmap-scan-Pickle-rick.png)
